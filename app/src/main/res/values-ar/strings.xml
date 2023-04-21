@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حساب</string>
+
+
+    <string name="usernameEditText">إسم المستخدم</string>
+    <string name="passwordEditText">كلمة السر</string>
+    <string name="submitButton">تسجل</string>
+    <string name="textView">معلومات حساب المستخدم</string>
+    <string name="fnv">إسم المستخدم</string>
+    <string name="emv">كلمة السر</string>
+    <string name="back_button">قائمة الرئيسية</string>
+    <string name="languageButton">غير اللغة</string>
+
+</resources>

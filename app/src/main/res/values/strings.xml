@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_names">
+        <item>English</item>
+        <item>Français</item>
+    </string-array>
+    <string name="app_name">Compte</string>
+
+
+    <string name="usernameEditText">Nom d\'utilisateur</string>
+    <string name="passwordEditText">Mot de passe</string>
+    <string name="submitButton">S\'IDENTIFIER</string>
+    <string name="textView">Les Informations du compte de l\'utilisateur</string>
+    <string name="fnv">Nom d\'utilisateur</string>
+    <string name="emv">Mot de passe</string>
+    <string name="back_button">Acceuil</string>
+    <string name="languageButton">Changer la langue</string>
+
+</resources>

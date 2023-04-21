@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Account</string>
+
+
+    <string name="usernameEditText">Username</string>
+    <string name="passwordEditText">Password</string>
+    <string name="submitButton">Register</string>
+    <string name="textView">User account information</string>
+    <string name="fnv">Username</string>
+    <string name="emv">Password</string>
+    <string name="back_button">Home</string>
+    <string name="languageButton">Change the language</string>
+
+</resources>
